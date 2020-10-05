@@ -1,3 +1,6 @@
+Project Details:
+I created several functions like memcopy, memmove, memset, memzero, reverse, reserve_words, free_words, itoa, and atoi. All of them were defined using pointer arithmetic. I did not use array indexing and standard libraries. Thus, making this project little unique.
+
 /* Add Author and Project Details here */
 
 Author:Shweta Satyasheel Mane
