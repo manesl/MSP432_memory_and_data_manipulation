@@ -1,0 +1,8 @@
+      text       data        bss      total filename
+        16         88          0        104 src/main.o
+      1574        440          0       2014 src/memory.o
+      2839        120          0       2959 src/data.o
+      2029        436          0       2465 src/stats.o
+      2271        733          0       3004 src/course1.o
+      9357       3773         72      13202 c1final.out
+     18086       5590         72      23748 (TOTALS)
