@@ -7,7 +7,7 @@ Author:Shweta Satyasheel Mane
 
 Project:Final assessment on coursera
 
-Assignment Details:Incorporate a memory manipulation and data manipulation program in your make buld system. Generate an 
+Assignment Details:Incorporate a memory manipulation and data manipulation program in your make build system. Generate an 
 executable for your host and msp432 system.
 
 Other aims:Compilation with GCC, execuetion of ouput on the CLI, and 
